@@ -1,0 +1,79 @@
+{
+  "calendar": "Calendar",
+  "participants": "Participants",
+  "numberOfParticipants_one": "{{count}} Participant",
+  "numberOfParticipants_other": "{{count}} Participants",
+  "goToSubjectGroup": "Go to subject group",
+  "youHaveInvited": "You have invited",
+  "addMore": "Add More",
+  "today": "Today",
+  "tomorrow": "Tomorrow",
+  "yesterday": "Yesterday",
+  "dayOfLastWeek": "Last {{day}}",
+  "guests": "guests",
+  "yes": "yes",
+  "awaiting": "awaiting",
+  "academicCalendar": "Academic calendar",
+  "attendance": "Attendance",
+  "takeAttendance": "Take attendance",
+  "room": "Room",
+  "lesson": "Lesson",
+  "time": "Time",
+  "break": "Break",
+  "extraCurricular": "Extra curricular",
+  "changeCalendarView": "Change calendar view",
+  "addEvent": "Add event",
+  "editEvent": "Edit event",
+  "filterCalendar": "Filter calendar",
+  "clashDetected": "Clash detected",
+  "clashDetectedWouldYouLikeToContinue": "A clash with another event or lesson has been detected. Would you like to continue to add this event?",
+  "errorMessages": {
+    "minEventDuration": "The event must last at least {{time}} minutes"
+  },
+  "inputLabels": {
+    "title": "Title",
+    "startDate": "Start date",
+    "schedule": "Schedule",
+    "recurrenceEnum": {
+      "NO_RECURRENCE": "Does not repeat",
+      "DAILY": "Daily",
+      "WEEKLY": "Weekly on {{day}}",
+      "BIWEEKLY": "Biweekly on {{day}}",
+      "MONTHLY": "Monthly on the first {{day}}"
+    },
+    "ends": "Ends",
+    "endsNever": "Never",
+    "endsOn": "On",
+    "endsAfter": "After",
+    "endDate": "End date",
+    "occurrences": "Occurrences",
+    "participants": "Participants",
+    "locations": "Location(s)",
+    "freeLocation": "Free location",
+    "clashingLocation": "Clashing location",
+    "description": "Description",
+    "eventColor": "Event color"
+  },
+  "placeholders": {
+    "participants": "People, groups, rooms, etc",
+    "partyTypeParticipants": "People, groups, etc"
+  },
+  "dayType": {
+    "HOLIDAY": "No school today. Enjoy the break!",
+    "STAFF_DAY": "Staff day today. No school for students."
+  },
+  "eventTypes": "Event types",
+  "calendarEventTypes": {
+    "LESSON": "Lesson",
+    "GENERAL": "General"
+  },
+  "attendeeType": {
+    "GeneralGroup": "General group",
+    "SubjectGroup": "Subject group",
+    "Student": "Student",
+    "StudentContact": "Contact",
+    "Staff": "Staff",
+    "ProgrammeStageEnrollment": "Programme",
+    "YearGroupEnrollment": "Year group"
+  }
+}

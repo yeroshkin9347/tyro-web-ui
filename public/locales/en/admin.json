@@ -1,0 +1,15 @@
+{
+  "school": "School",
+  "schools": "Schools",
+  "people": "People",
+  "location": "Location",
+  "tenant": "Tenant",
+  "partyId": "Party Id",
+  "emulate": "Emulate",
+  "viewPeople": "View People",
+  "ariaLabelForTabs": "scrollable auto tabs for school",
+  "live": "Live",
+  "test": "Test",
+  "evictTenantCache": "Evict tenant cache",
+  "emulateSchool": "Emulate school"
+}

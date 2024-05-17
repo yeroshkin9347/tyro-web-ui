@@ -1,0 +1,114 @@
+{
+  "general": {
+    "title": "General",
+    "dashboard": "Dashboard",
+    "calendar": "Calendar",
+    "subjects": "Subjects",
+    "mail": "Mail",
+    "fees": "Fees",
+    "attendance": {
+      "title": "Attendance",
+      "overview": "Overview",
+      "codes": "Attendance codes",
+      "session": "Session",
+      "absentRequests": "Absent requests",
+      "unexplainedAbsences": "Unexplained Absences",
+      "bulkAttendance": "Bulk attendance",
+      "signInOut": "Sign in/out"
+    },
+    "absence": {
+      "title": "Absence",
+      "types": "Staff absence types"
+    },
+    "groups": {
+      "title": "Groups",
+      "class": "Class",
+      "subject": "Subject",
+      "support": "Support",
+      "custom": "Custom",
+      "year": "Year"
+    },
+    "admin": {
+      "title": "Admin",
+      "schools": "Schools",
+      "graphiql": "GraphiQL"
+    },
+    "assessments": {
+      "title": "Assessments",
+      "termAssessments": "Term assessments"
+    },
+    "schoolActivities": {
+      "title": "School activity",
+      "schoolActivity": "School activity"
+    }
+  },
+  "management": {
+    "title": "Management",
+    "classListManager": "Class list manager",
+    "fees": {
+      "overview": "Overview",
+      "discounts": "Discounts",
+      "categories": "Categories"
+    },
+    "people": {
+      "title": "People",
+      "students": "Students",
+      "staff": "Staff",
+      "contacts": "Contacts"
+    },
+    "reports": "Reports",
+    "substitution": {
+      "title": "Substitution",
+      "absences": "Absences",
+      "cover": "Cover"
+    },
+    "settings": {
+      "title": "Settings",
+      "rooms": "Rooms",
+      "academicYears": "Academic years",
+      "subjects": "Subjects",
+      "ppod": "PPOD",
+      "schoolDetails": "School details",
+      "login": "Login",
+      "dtrReturns": "DTR Returns",
+      "userAccess": "User access",
+      "permissions": "Permissions",
+      "noteLabels": "Note labels",
+      "behaviourLabels": "Behaviour settings",
+      "commentBanks": "Comment banks"
+    },
+    "timetable": {
+      "title": "Timetable",
+      "timetables": "Timetables",
+      "editTimetable": "Edit timetable"
+    },
+    "printing": {
+      "title": "Printing",
+      "timetable": "Timetable"
+    },
+    "sms": "SMS"
+  },
+  "errors": {
+    "404": {
+      "title": "Sorry, page not found!",
+      "description": "Sorry, we couldn't find the page you're looking for. Perhaps you've mistyped the URL? Be sure to check your spelling."
+    },
+    "403": {
+      "title": "No permission",
+      "description": "The page you're trying access has restricted access. Please refer to your system administrator."
+    },
+    "500": {
+      "title": "500 Internal Server Error",
+      "description": "There was an error, please try again later."
+    },
+    "503": {
+      "title": "503 Service Unavailable",
+      "description": "There seems to be an issue with connecting to Tyro, please try again later."
+    },
+    "unknown": {
+      "title": "Sorry, something went wrong",
+      "description": "If this problem persists, please contact support."
+    },
+    "action": "Go to dashboard"
+  }
+}

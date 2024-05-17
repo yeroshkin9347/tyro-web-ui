@@ -1,0 +1,24 @@
+{
+  "name": "@tyro/tyro-admin",
+  "version": "0.0.0",
+  "private": true,
+  "main": "src/index.ts",
+  "dependencies": {
+    "@graphiql/react": "^0.15.0",
+    "@graphiql/toolkit": "^0.8.0",
+    "@mui/material": "^5.14.16",
+    "@tanstack/react-query": "^4.29.7",
+    "@tyro/api": "*",
+    "@tyro/core": "*",
+    "@tyro/i18n": "*",
+    "@tyro/icons": "*",
+    "graphiql": "^2.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router": "^6.3.0",
+    "react-router-dom": "^6.3.0"
+  },
+  "devDependencies": {
+    "@tyro/configs": "*"
+  }
+}

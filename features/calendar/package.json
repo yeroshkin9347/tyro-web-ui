@@ -1,0 +1,41 @@
+{
+  "name": "@tyro/calendar",
+  "version": "0.0.0",
+  "private": true,
+  "main": "src/index.ts",
+  "dependencies": {
+    "@fullcalendar/core": "^6.1.4",
+    "@fullcalendar/daygrid": "^6.1.4",
+    "@fullcalendar/interaction": "^6.1.4",
+    "@fullcalendar/list": "^6.1.4",
+    "@fullcalendar/react": "^6.1.4",
+    "@fullcalendar/resource": "^6.1.4",
+    "@fullcalendar/resource-timegrid": "^6.1.4",
+    "@fullcalendar/resource-timeline": "^6.1.4",
+    "@fullcalendar/timegrid": "^6.1.4",
+    "@fullcalendar/timeline": "^6.1.4",
+    "@hookform/resolvers": "^2.9.10",
+    "@mui/lab": "^5.0.0-alpha.151",
+    "@mui/material": "^5.14.16",
+    "@mui/system": "^5.14.16",
+    "@mui/x-date-pickers": "^6.17.0",
+    "@tanstack/react-query": "^4.29.7",
+    "@tyro/api": "*",
+    "@tyro/app-shell": "*",
+    "@tyro/attendance": "*",
+    "@tyro/core": "*",
+    "@tyro/i18n": "*",
+    "@tyro/icons": "*",
+    "@tyro/people": "*",
+    "@tyro/substitution": "*",
+    "dayjs": "^1.11.7",
+    "lodash": "^4.17.21",
+    "react": "^18.2.0",
+    "react-hook-form": "^7.43.9",
+    "react-router": "^6.3.0",
+    "react-router-dom": "^6.6.2"
+  },
+  "devDependencies": {
+    "@tyro/configs": "*"
+  }
+}
